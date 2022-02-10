@@ -52,8 +52,6 @@
             let eats = $("input[name=eats]:checked").val();
             let pet = "";
             alert(feels);
-
-
         });
 
     });
